@@ -9,7 +9,7 @@
   <i>Turning systems into solutions. Turning ideas into products.</i>
 </p>
 
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Dhava 3D Graph" width="80%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Dhava 3D Dark Animated Graph" width="90%" />
 </p>
 
 ---
