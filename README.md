@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Dhava Night View 3D" width="90%" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Dhava Git Block 3D" width="90%" />
 </p>
 
 ---
