@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Hi, I'm Dhava 👋</h1>
-<h3 align="center">Web Developer • Graphic Designer</h3>
 
+<h3 align="center">Web Developer • Graphic Designer</h3>
 <p align="center">
   <i>Turning systems into solutions. Turning ideas into products.</i>
 </p>
@@ -27,27 +27,39 @@
 
 ---
 
+## Analytic
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhava-wirayuda&theme=tokyonight" height="190" />
+</p>
+<p align="center">
+  <a href="https://github.com/dhava-wirayuda">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhava-wirayuda&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" height="190" />
+  </a>
+</p>
+
+---
+
 ## 🚀 About Me
 
 I'm a **fresh graduate in Telecommunication Engineering** with a deep passion for **Software Development & Digital Intelligence**.
 
 - Building systems **from zero**
-- Reverse-engineering tech to understand *why it works*
+- **Reverse-engineering** tech to understand *why it works*
 - Shipping **real, usable products**, not just demos
 
 I’m also the founder of **Spectrum.Byte** — a tech initiative focused on  
 **device repair, system optimization, data recovery, and software-based solutions**,  
-built with a structured & professional mindset.
+_built with a structured_ & _professional mindset_.
 
 ---
 
 ## 🧠 Tech Interests & Focus
 
-- 🌐 Internet of Things & Embedded Systems  
-- 🤖 Artificial Intelligence (Computer Vision & NLP)  
-- 🔐 Cybersecurity Fundamentals   
+- 🌐 **Internet of Things & Embedded Systems**
+- 🤖 **Artificial Intelligence (Computer Vision & NLP)**
+- 🔐 **Cybersecurity Fundamentals**
 
----
 
 ## 🔗 interest
 
@@ -98,20 +110,6 @@ built with a structured & professional mindset.
     </td>
   </tr>
 </table>
-
----
-
-## 📜 Certifications
-
-<p align="center">
-  <img src="assets/CertificateCyberSecurity.jpg" width="260" />
-  <img src="assets/CertificateNetworkCourse.jpg" width="260" />
-</p>
-
-<p align="center">
-  <b>Basic Cyber Security • Computer Networking</b><br />
-  <b>Cisco</b>
-</p>
 
 ---
 
