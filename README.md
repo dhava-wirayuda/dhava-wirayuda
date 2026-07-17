@@ -13,10 +13,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-## 📊 GitHub Analytics
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eleanore-Py&theme=tokyo-night" />
-
 ---
 
 ## 🎮 Lets Play With me
