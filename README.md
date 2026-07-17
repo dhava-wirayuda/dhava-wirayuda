@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Dhava 3D Dark Animated Graph" width="90%" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Dhava Night View 3D" width="90%" />
 </p>
 
 ---
