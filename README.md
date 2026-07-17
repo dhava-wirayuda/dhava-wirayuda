@@ -27,7 +27,7 @@
 
 ---
 
-## Analytic
+## 🗒️ My Analytic
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhava-wirayuda&theme=tokyonight" height="190" />
@@ -36,6 +36,10 @@
   <a href="https://github.com/dhava-wirayuda">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhava-wirayuda&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" height="190" />
   </a>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Dhava 3D Graph" width="80%" />
 </p>
 
 ---
