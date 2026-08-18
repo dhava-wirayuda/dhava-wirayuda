@@ -38,7 +38,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/dhava-wirayuda">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhava-wirayuda&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" height="190" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhava-wirayuda&layout=compact&theme=tokyonight&langs_count=7" alt="Top       Languages" height="190" />
   </a>
 </p>
 
