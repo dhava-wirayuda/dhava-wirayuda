@@ -19,7 +19,7 @@ jobs:
       - name: Generate pacman contribution graph (dark)
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Eleanore-Py
+          github_user_name: dhava-wirayuda
           theme: dark
           background_color: "#0d1117"
 
