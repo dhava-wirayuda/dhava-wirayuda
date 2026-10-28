@@ -13,17 +13,17 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
 
     steps:
-      - name: Generate pacman contribution graph (dark)
+      - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: dhava-wirayuda
-          theme: dark
-          background_color: "#0d1117"
+          games: "pacman"
+          hide_month_labels: "false"
 
-      - name: Deploy to output branch
+      - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
